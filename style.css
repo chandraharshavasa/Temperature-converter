@@ -1,0 +1,58 @@
+.container {
+	margin: 50px auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	max-width: 400px;
+}
+
+.input-group, .button-group {
+	margin: 10px 0;
+}
+
+.label-group {
+	display: inline-block;
+	width: 80px;
+}
+
+.input-group input {
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	width: 200px;
+}
+
+.button-group button {
+	padding: 5px 20px;
+	border-radius: 5px;
+	background-color: #f0424b;
+	color: white;
+	border: black;
+	cursor: pointer;
+	margin-right: 10px;
+}
+
+.output-group p {
+	font-weight: bold;
+	margin: 10px 0;
+}
+.navibar{
+    text-decoration: none;
+    padding : 10px;
+    color: rgb(207, 57, 57);
+    
+    font-family: Geneva, Verdana, sans-serif;
+    
+}
+.right{
+    text-align : end;
+    text-decoration: none;
+    padding : 10px;
+    float: right;
+}
+#button{
+	background : rgb(207, 57, 57);
+	border : solid 2px black;
+	padding :4px;
+	border-radius: 5px;
+}
